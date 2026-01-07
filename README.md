@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 Hi 👋 I’m Abhijeet<br><br>🔭 I’m currently working on<br>Building small projects to strengthen my foundation in full-stack development.<br><br>👯 I’m looking to collaborate on<br>Beginner-friendly projects in Java, Spring, React, and web development.<br><br>🤝 I’m looking for help with<br>Best practices for real-world projects, system design basics, and interview preparation.<br><br>🌱 I’m currently learning<br>Advanced Java, Spring Framework, React, and MySQL.<br><br>💬 Ask me about<br>HTML, CSS, Java, Spring, React, MySQL, and getting started in IT as a fresher.<br><br>⚡ Fun fact<br>I work in Talent Acquisition at Tech Mahindra while actively preparing for an entry-level IT role 🚀
 
 
