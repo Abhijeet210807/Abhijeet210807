@@ -13,7 +13,7 @@ Hi  I’m Abhijeet<br><br>🔭 I’m currently working on<br>Building small proj
 
 
 
-### ✍️ Random Dev Quote
+### ✍️ Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 
